@@ -59,8 +59,10 @@ add_action( 'ingot_before', function(){
 		add_action( 'ingot_loaded', 'ingot_give_fs', 25 );
 
 		add_action( 'ingot_loaded', function () {
-			new add_destinations();
-			new tracking();
+			if ( ingot_is_give_active() ) {
+				new add_destinations();
+				new tracking();
+			}
 		}, 26 );
 
 	}
