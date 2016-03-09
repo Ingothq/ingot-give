@@ -1,0 +1,26 @@
+{
+  "name": "ingot/ingot-give",
+  "description": "SAdd give support for Ingot",
+  "keywords": [
+    "wordpress", "ingot"
+  ],
+  "type" : "wordpress-plugin",
+  "minimum-stability" : "dev",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Josh Pollock",
+      "homepage": "http://JoshPress.net",
+      "role": "Developer"
+    }
+  ],
+  "repositories" : [
+    {
+      "type" : "git",
+      "url" : "https://github.com/Ingothq/ingot-give-lib"
+    }
+  ],
+  "require": {
+    "ingot/ingot-give-lib" : "*"
+  }
+}
