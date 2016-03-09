@@ -1,5 +1,5 @@
-# Ingot - Easy Digital Downloads
-Add-on to add basic Easy Digital Downloads to Ingot, the easiest A/B testing tool for WordPress. For full Ingot give support, upgrade to Ingot Premium.
+# Ingot - Give
+Add-on to add basic Give support to Ingot, the easiest A/B testing tool for WordPress. For full Ingot Give support, upgrade to Ingot Premium.
 
 <strong>[Learn More At IngotHQ.com](http://ingothq.com)</strong>
 
